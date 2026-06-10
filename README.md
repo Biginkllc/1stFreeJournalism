@@ -1,5 +1,5 @@
 # 1stFreeJournalism
-![1stFreeJournalism Concept](images/1stFreeJournalism_Concept.png)
+![1stFreeJournalism Concept](1stFreeJournalism%20PNG.png) 
 ## Journalism as Signal. Stewardship. Public Trust.
 
 1stFreeJournalism explores journalism as an evolving public good in an increasingly decentralized world.
