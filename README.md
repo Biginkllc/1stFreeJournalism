@@ -1,5 +1,12 @@
 # 1stFreeJournalism
 ![1stFreeJournalism Concept](1stFreeJournalism%20PNG.png) 
+## 🎥 Video Presentation
+
+Watch the first visual exploration of **1stFreeJournalism**:
+
+[1stFreeJournalism V0.1 – Journalism as Signal, Stewardship, and Public Trust](https://youtu.be/Z4mJ6SWK-aA)
+
+This video accompanies the concepts, artwork, and voiceover narratives contained within this repository.
 ## Journalism as Signal. Stewardship. Public Trust.
 
 1stFreeJournalism explores journalism as an evolving public good in an increasingly decentralized world.
