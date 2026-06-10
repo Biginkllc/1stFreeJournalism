@@ -1,4 +1,7 @@
 # 1stFreeJournalism
+# Test Image
+
+![Test](images/your_exact_filename_here.png)
 ![1stFreeJournalism Concept](images/1stFreeJournalism_Concept.png)
 Exploring journalism as an open, resilient, and collaborative public good through decentralized ideas, media experiments, and evolving frameworks.
 # 1stFreeJournalism
