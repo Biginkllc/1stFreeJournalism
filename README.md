@@ -1,8 +1,5 @@
 # 1stFreeJournalism
-1stFreeJournalism/blob/main/1stFreeJournalism%20PNG.png
-Exploring journalism as an open, resilient, and collaborative public good through decentralized ideas, media experiments, and evolving frameworks.
-# 1stFreeJournalism
-
+![1stFreeJournalism Concept](images/1stFreeJournalism_Concept.png)
 ## Journalism as Signal. Stewardship. Public Trust.
 
 1stFreeJournalism explores journalism as an evolving public good in an increasingly decentralized world.
